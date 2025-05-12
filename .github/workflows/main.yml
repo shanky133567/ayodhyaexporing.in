@@ -1,0 +1,5 @@
+git init
+git remote add origin https://github.com/yourusername/ayodhya-explorer.git
+git add .
+git commit -m "First commit"
+git push -u origin master
